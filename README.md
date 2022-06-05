@@ -1,3 +1,4 @@
+<b>Emotion Based Music Player</b><br>
 In existing system user want to manually select the songs, randomly played songs may not match to the mood of the user, user has to classify the songs into various emotions like anger, happy, sad, normal, funny.The difficulties can be avoided by using Emo Player (Emotion-based music player). The emotions are recognized using a machine learning method provided by Google in android studio. Google ML-kit will be used, for the classification of real-time face emotion. According to the emotion random song is played stored in firebase storage.
 
 <b>Machine Learning</b> 
