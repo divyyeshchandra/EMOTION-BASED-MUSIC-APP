@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MOODIFY</string>
+    <string name="permission_not_allowed">You can not use this app without camera permission</string>
+</resources>
